@@ -1,0 +1,7 @@
+postgres://tvfdlbcowljmca:a4180b4fe746571590012bbf88caf58863dea4fb40701c4e0d031304e73a1d3b@ec2-52-4-104-184.compute-1.amazonaws.com:5432/d7ppka153n55f4
+
+user: tvfdlbcowljmca
+pass: a4180b4fe746571590012bbf88caf58863dea4fb40701c4e0d031304e73a1d3b
+server: ec2-52-4-104-184.compute-1.amazonaws.com
+port: 5432
+database: d7ppka153n55f4
